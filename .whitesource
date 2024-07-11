@@ -28,7 +28,7 @@
     "scanPullRequests": true,
     "enableRemediation": true,
     "incrementalScan": true,
-    "snippetSize": 1,
+    "snippetSize": 5,
     "baseBranches": []
   }
 }
